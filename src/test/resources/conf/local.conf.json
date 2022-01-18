@@ -1,0 +1,17 @@
+{
+	"server": "hub-cloud.browserstack.com",
+	"user": "praveen_P9Kyts",
+	"key": "j2LY8UKqwRC7qZAWW3zZ",
+	"env": "local",
+	"capabilities": {
+		"build": "browserstack-build-1",
+		"name": "local_test",
+		"browserstack.debug": true,
+		"browserstack.local": true
+	},
+	"environments": [
+		{
+			"browser": "chrome"
+		}
+	]
+}
